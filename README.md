@@ -1,1 +1,1 @@
-# OmPingle007.gitpages.io
+# OmPingle007.github.io
