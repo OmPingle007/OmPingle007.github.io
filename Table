@@ -1,0 +1,44 @@
+<html>
+
+<head> This is a Table </head>
+
+<body>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>   Location</th>
+            <th>   Roll No</th>
+        </tr>
+        <tr>
+            <td>Om Pingale</td>
+            <td>   Nashik</td>
+            <td>   IPM05177</td>
+        </tr>
+        <tr>
+            <td>Umang Aggarwal</td>
+            <td>   Peelibeet</td>
+            <td>   IPM05133</td>
+        </tr>
+        <tr>
+            <td>Tanmay Waghmare</td>
+            <td>   Chhatrapati Sambhaji Nagar</td>
+            <td>   IPM05065 </td>
+        </tr>
+        <tr>
+            <td>Deep Sahu</td>
+            <td>   Gorakhpur</td>
+            <td>   IPM05120</td>
+        </tr>
+        <tr>
+            <td>Hardik Khandelwal</td>
+            <td>   Jaipur</td>
+            <td>   IPM05077</td>
+        </tr>
+        <tr>
+            <td>Berry</td>
+            <td>   Lucknow</td>
+            <td>   IPM05127</td>
+        </tr>
+    </table>
+</body>
+</html>
